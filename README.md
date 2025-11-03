@@ -54,10 +54,9 @@ if (pid == 0) {
 
 
 ##OUTPUT
-```
 <img width="888" height="176" alt="image" src="https://github.com/user-attachments/assets/60434d41-b1ea-4a39-8b1f-7d3a8090f615" />
 
-```
+
 
 
 
